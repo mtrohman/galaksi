@@ -15,13 +15,13 @@ jQuery(function ($) {
     $(window).on('scroll', function () {
         if ($(this).scrollTop() > 70) { // Set position from top to add class
             $('.navbar').addClass("shrink");
-            $('.green .navbar-brand> img').attr('src', 'images/logo-green-dark.png');
+            $('.green .navbar-brand> img').attr('src', 'images/startup-creativy-black.png');
             $("#index5 #menu_bars").addClass('active2');
 
         }
         else {
             $('.navbar').removeClass("shrink");
-            $('.green .navbar-brand> img').attr('src', 'images/logo-green-white.png');
+            $('.green .navbar-brand> img').attr('src', 'images/startup-creativy.png');
             $("#index5 #menu_bars").removeClass('active2');
         }
 
