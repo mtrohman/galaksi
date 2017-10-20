@@ -1,4 +1,4 @@
-# bakarinovasi (Global Karya Inovasi)
+# GALAKSI (Global Karya Inovasi)
 Sebuah start-up yang dirintis oleh Mohammad Taufiqurrohman dan Syara Annisa Firdanila Suparjo
 Berlokasi di Semarang.
 
